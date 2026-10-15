@@ -53,5 +53,5 @@ For bioinformatics support and questions about ELIXIR Norway:
 **ELIXIR Norway | NMBU | 2026**
 
 <p align="center">
-  <img src="docs/elixirNologo.png" alt="ELIXIR Norway Logo" width="300">
+  <img src="docs/elixirNOlogo.png" alt="ELIXIR Norway Logo" width="300">
 </p>
