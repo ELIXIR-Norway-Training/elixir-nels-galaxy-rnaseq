@@ -54,7 +54,7 @@ For bioinformatics support or inquiries about ELIXIR Norway's services:
 
 ---
 
-**ELIXIR Norway | NMBU | 2026**
+**ELIXIR Norway | OsloMet | 2026**
 
 <p align="center">
   <img src="docs/elixirNOlogo.png" alt="ELIXIR Norway Logo" width="300">
