@@ -6,7 +6,7 @@ NeLS data storage, and Galaxy for reproducible RNA-seq analysis.
 ## 📚 Course Information
 
 - **Course:** PHVIT9560 – Bioinformatics
-- **Institution:** Norwegian University of Life Sciences (NMBU)
+- **Institution:** OsloMet
 - **Date:** 16 October 2026
 - **Instructor:** Arturo Vera Ponce de Leon
 - **Affiliation:** ELIXIR Norway / NMBU
