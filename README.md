@@ -1,4 +1,4 @@
-# 🧬 ELIXIR Norway, NeLS and Galaxy: Resources for RNA-seq Analysis THIS is 
+# 🧬 ELIXIR Norway, NeLS and Galaxy: Resources for RNA-seq Analysis 
 
 Introduction to ELIXIR Norway's bioinformatics resources,
 NeLS data storage, and Galaxy for reproducible RNA-seq analysis.
