@@ -5,7 +5,7 @@ NeLS data storage, and Galaxy for reproducible RNA-seq analysis.
 
 ## 📚 Course Information
 
-- **Course:** PHVIT9560 – Bioinformatics
+- **Course:** [PHVIT9560 – Bioinformatics](https://student.oslomet.no/studier/-/studieinfo/emne/PHVIT9560/2026/H%C3%98ST)
 - **Institution:** OsloMet
 - **Date:** 16 October 2026
 - **Instructor:** Arturo Vera Ponce de Leon
