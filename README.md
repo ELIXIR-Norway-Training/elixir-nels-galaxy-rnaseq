@@ -44,9 +44,13 @@ RNA-seq analysis using Galaxy.
 
 ## 📬 Contact
 
-For bioinformatics support and questions about ELIXIR Norway:
+For questions, comments, or feedback about this course:
 
-📧 **support@elixir.no**
+📧 **[auve@nmbu.no](mailto:auve@nmbu.no)**
+
+For bioinformatics support or inquiries about ELIXIR Norway's services:
+
+📧 **[support@elixir.no](mailto:support@elixir.no)**
 
 ---
 
