@@ -25,8 +25,8 @@ By the end of this session, participants should be able to:
 
 ### 📊 Lecture Slides
 
-- 📕 [Lecture slides (PDF)](slides/ELIXIR_NeLS_Galaxy_2026.pdf)
-- 📑 [Lecture slides (PowerPoint)](slides/ELIXIR_NeLS_Galaxy_2026.pptx)
+- 📕 [Lecture slides (PDF)](slides/ElixirAt_OsloMet_2026.pdf)
+- 📑 [Lecture slides (PowerPoint)](slides/ElixirAt_OsloMet_2026.pptx)
 
 ### 🧪 Galaxy RNA-seq Tutorial
 
